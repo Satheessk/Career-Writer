@@ -80,15 +80,15 @@ You can add screenshots of the application here after running it.
 
 ### Home Page
 
-> *(Add Screenshot)*
+
 
 ### Resume Generator
 
-> *(Add Screenshot)*
+
 
 ### Email Generator
 
-> *(Add Screenshot)*
+
 
 ---
 
@@ -106,10 +106,7 @@ You can add screenshots of the application here after running it.
 
 ## 👨‍💻 Author
 
-**Satheeskumar G**
-
-B.Tech Information Technology
-
+linked in - https://www.linkedin.com/in/gsatheeskumar/
 - 💼 Passionate about Artificial Intelligence and Software Development
 - 💻 Interested in Full Stack Development and Machine Learning
 - 🎯 Focused on building impactful real-world applications
